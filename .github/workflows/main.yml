@@ -63,4 +63,3 @@ jobs:
 
 
       run: .\grok\grok.exe tcp 3389
-￼Enter
